@@ -1,0 +1,16 @@
+
+  #container 
+  { 
+    width: 600px; 
+    margin: 0 auto;
+    border: 1px solid black;
+    color: #3D5F00;
+    background: #A3FF00;
+    text-align: center;
+    height: 220px;
+  }
+  #titolo
+  {
+    font-family: verdana;
+    font-weight: bold;;
+  }
